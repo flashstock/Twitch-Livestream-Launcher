@@ -1,0 +1,9 @@
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\bin\Release\TwitchLivestreamerLauncher.exe.config
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\bin\Release\TwitchLivestreamerLauncher.exe
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\bin\Release\TwitchLivestreamerLauncher.pdb
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.TwitchLauncherWindow.resources
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.Properties.Resources.resources
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.csproj.GenerateResource.Cache
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.exe
+c:\users\johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.pdb
+C:\Users\Johan\documents\visual studio 2013\Projects\TwitchLivestreamerLauncher\TwitchLivestreamerLauncher\obj\Release\TwitchLivestreamerLauncher.csprojResolveAssemblyReference.cache
